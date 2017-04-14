@@ -1,3 +1,13 @@
-h1 {
-  color:red;
+.main {
+  width: 660px;
+  margin: 10px auto 0px;
+}
+
+
+.head-pic {
+  width: 100%;
+}
+
+ul, ol {
+  padding-left: 24px;
 }
